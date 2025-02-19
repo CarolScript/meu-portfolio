@@ -22,7 +22,7 @@ export default function Home() {
       </header>
 
       <section>
-        <h1>Oi, sou Emelie Noira!</h1>
+        <h1>Oi, sou Emilly Caroline!</h1>
         <h2>CEO da Essência Digital | Desenvolvedora Web</h2>
         <p>Crio soluções digitais para empresas que querem crescer.</p>
         <Link href="/projetos"><button>Ver Projetos</button></Link>
